@@ -1,0 +1,8 @@
+{"c2dictionary":true, "data":{
+	"facebookPage":"https://www.gamerelaxnow.com",
+	"twitterPage":"https://www.gamerelaxnow.com",
+	"googlePage":"https://www.gamerelaxnow.com",
+	"rateUs":"https://www.gamerelaxnow.com",
+	"moreGames":"https://www.gamerelaxnow.com",
+	"shareMessage":"I just scored $score at ColorValley !"
+}}
